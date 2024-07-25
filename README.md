@@ -1,1 +1,2 @@
 # DEFENCE-SYSTEM-AND-RADAR-MONITORING-SYSTEM-USING-ULTRA-SONAR-ULTRASONIC-SENSOR-
+Introducing an advanced defense and radar system using ultrasound technology. Our project enhances security by precisely detecting and tracking objects in different environments, like underwater and in the air, with ultrasonic sensors. This innovative solution improves situational awareness, helps detect threats early, and strengthens defense systems to protect national security and critical assets.
